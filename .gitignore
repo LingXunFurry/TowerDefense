@@ -1,0 +1,25 @@
+# Qt Creator
+*.pro.user
+*.pro.user.*
+*.qrc.*
+
+# Build files
+build/
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
+
+# Qt auto-generated files
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+*.autosave
+*.log
+*.ninja_log
+*.json
+*.txt
+
+# IDE files
+.qtcreator/
